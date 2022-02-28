@@ -1,0 +1,10 @@
+.pulse-line{
+  stroke: url(#linear-gradient);
+  stroke-width: 2px;
+  fill:transparent;
+}
+
+.svg-line{
+  width: 250px;
+  height: 700px;
+}
